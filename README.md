@@ -7,7 +7,7 @@ To use TensorCalculator, you'll need to have PyTorch installed on your system. Y
 Once you have PyTorch installed, you can simply copy the TensorCalculator class from this repository into your project.
 
 # Usage
-Import the TensorCalculator class into your Python script: from tensor_calculator import TensorCalculator
+Import the TensorCalculator class into your Python script: from tensor_exercise.tensor_calculator import TensorCalculator
 
 Initialize a TensorCalculator object: calculator = TensorCalculator()
 
